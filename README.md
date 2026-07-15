@@ -35,9 +35,6 @@ My research asks how human operators can supervise, coordinate, and intervene in
 - [**HORUS**](https://github.com/RICE-unige/horus): mixed-reality application for supervising and interacting with heterogeneous robot teams.
 - [**HORUS SDK**](https://github.com/RICE-unige/horus_sdk): client, orchestration, and integration layer for HORUS experiments and robot-team workflows.
 - [**HORUS ROS 2**](https://github.com/RICE-unige/horus_ros2): ROS 2 integration package for connecting HORUS with robot systems.
-- [**Carter Multi Nav**](https://github.com/Omotoye/carter_multi_nav): Isaac Sim multi-robot navigation experiments.
-- [**Multi-Robot Gazebo Simulation**](https://github.com/Omotoye/multi_robot_sim_gazebo): Gazebo simulation work for multi-robot systems.
-- [**Personal Website**](https://github.com/Omotoye/Omotoye.github.io): academic website with publications, projects, and research updates.
 
 ## Tools and Areas
 
